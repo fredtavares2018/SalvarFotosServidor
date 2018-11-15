@@ -1,0 +1,12 @@
+{
+  "name": "devdactic-image-upload",
+  "integrations": {
+    "cordova": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
